@@ -1,2 +1,14 @@
 # ayx-link-guide
-HTML page archive and documentation
+
+HTML 页面维护仓库
+
+页面发布任务会把结果保存到此仓库，方便统一管理。
+
+## 仓库结构
+
+- `README.md`：说明文本
+- `*.html`：可发布页面
+
+## 维护说明
+
+页面内容会根据发布任务逐步追加，具体状态以提交记录为准。
